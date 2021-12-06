@@ -6,14 +6,16 @@
 # 5. Define a new function by uncommenting lines 17/18, this function should greet one of your classmates
 # 6. Write a new test for your new function in main_test.py, and check to see all 3 tests are passing
 # 7. When you are done, raise your hand. If you are correct, you will receive further instructions on how to add your code to github
-
+stephen= "Stephen"
 def print_hi_stephen():
-    return f'Hi, {name}'
+    return f'Hi, {stephen}'
 
-
+you= "Eagle"
 def print_hi_you():
-    return f'Hi, {name}'
+    return f'Hi, {you}'
 
-
+steven = "Steven"
+def print_hi_steven():
+    return f'Hi, {steven}'
 #def print_hi_?():
 #    return
